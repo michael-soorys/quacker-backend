@@ -3,7 +3,7 @@
 	"version": "0.0.0",
 	"private": true,
 	"scripts": {
-		"start": "node ./bin/www"
+		"start": "nodemon ./bin/www"
 	},
 	"author": "Michael Ribca (michaelsoorys@gmail.com)",
 	"dependencies": {
@@ -19,5 +19,8 @@
 		"passport": "^0.4.1",
 		"passport-jwt": "^4.0.0",
 		"passport-local": "^1.0.0"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.4"
 	}
 }
