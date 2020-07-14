@@ -51,6 +51,9 @@ api.get('/user/:id', (req, res, next) => {});
 // Get the user's own profile
 api.get('/profile', (req, res, next) => {});
 
+// Update the user's profile with an avatar/bio
+api.patch('/profile', (req, res, next) => {});
+
 // Post a quack
 api.post('/quack', (req, res, next) => {});
 
