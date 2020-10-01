@@ -4,7 +4,7 @@
 <p>Quacker is a state of the art, super useful app. It's kind of like twitter, only better because quacks don't echo, tweets do and cause a lot of damage. Join Quacker and write some quacks. Or don't, no one will hear them anyway, because quacks don't echo. Heh.</p>
 
 <hr>
-<p>This is a mini-project meant to mimic Twitter functionality. It has 1 role, get me more familiarized with ReactJS.</p>
+<p>This is a mini-project meant to mimic Twitter functionality. The point of this project is for me to learn how to build a Node API using uncle Bob's Clean architecture priciples and also get better at using React on the front-end.</p>
 
 <hr>
 
